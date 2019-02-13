@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8abba88b-7850-4337-9d3e-d5d7ff5811f7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tab/config/parse/ConfigManager.java" afterPath="$PROJECT_DIR$/src/com/tab/config/parse/ConfigManager.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -337,7 +338,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517881355766</updated>
       <workItem from="1517881358946" duration="8806000" />
-      <workItem from="1550021461940" duration="1129000" />
+      <workItem from="1550021461940" duration="1190000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1550021669923</created>
@@ -350,7 +351,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9935000" />
+    <option name="totallyTimeSpent" value="9996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="391" y="89" width="1127" height="726" extended-state="0" />
