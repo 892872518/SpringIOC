@@ -21,7 +21,7 @@ public class ConfigManager {
     //读取配置信息，并返回结果
     public static Map<String,Bean> getConfig(String path){
         Map<String,Bean> map = new HashMap<>();
-        //创建解析器3
+        //创建解析器4
         SAXReader saxReader = new SAXReader();
         //加载配置文件
         InputStream is = ConfigManager.class.getResourceAsStream(path);
